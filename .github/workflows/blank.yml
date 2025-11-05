@@ -19,4 +19,4 @@ jobs:
       - name: Run ESLint
         run: npm run lint
       - name: Run Vitest
-        run: npx vitest ru
+        run: npx vitest run
